@@ -1,0 +1,1920 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\base\basic_types\basic_types.cpp">
+      <Filter>vcl\base\basic_types</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\base\error\error.cpp">
+      <Filter>vcl\base\error</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\base\rand\rand.cpp">
+      <Filter>vcl\base\rand</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\base\string\string.cpp">
+      <Filter>vcl\base\string</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\containers\buffer\test\test_buffer.cpp">
+      <Filter>vcl\containers\buffer\test</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\containers\buffer_stack\special_types\special_types.cpp">
+      <Filter>vcl\containers\buffer_stack\special_types</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\containers\buffer_stack\test\test_buffer_stack.cpp">
+      <Filter>vcl\containers\buffer_stack\test</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\containers\grid\test\test_grid.cpp">
+      <Filter>vcl\containers\grid\test</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\containers\grid_stack\grid_stack_2D\test\test_grid_stack_2D.cpp">
+      <Filter>vcl\containers\grid_stack\grid_stack_2D\test</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\containers\offset_grid\offset_grid.cpp">
+      <Filter>vcl\containers\offset_grid</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\drawable\curve_drawable\curve_drawable.cpp">
+      <Filter>vcl\display\drawable\curve_drawable</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\drawable\hierarchy_mesh_drawable\hierarchy_mesh_drawable.cpp">
+      <Filter>vcl\display\drawable\hierarchy_mesh_drawable</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\drawable\hierarchy_mesh_drawable\hierarchy_mesh_drawable_node\hierarchy_mesh_drawable_node.cpp">
+      <Filter>vcl\display\drawable\hierarchy_mesh_drawable\hierarchy_mesh_drawable_node</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\drawable\mesh_drawable\mesh_drawable.cpp">
+      <Filter>vcl\display\drawable\mesh_drawable</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\drawable\mesh_normal_drawable\mesh_normal_drawable.cpp">
+      <Filter>vcl\display\drawable\mesh_normal_drawable</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\drawable\mesh_wireframe_drawable\mesh_wireframe_drawable.cpp">
+      <Filter>vcl\display\drawable\mesh_wireframe_drawable</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\drawable\segments_drawable\segments_drawable.cpp">
+      <Filter>vcl\display\drawable\segments_drawable</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\drawable\shading_parameters\shading_parameters.cpp">
+      <Filter>vcl\display\drawable\shading_parameters</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\drawable\trajectory_drawable\trajectory_drawable.cpp">
+      <Filter>vcl\display\drawable\trajectory_drawable</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\image\image.cpp">
+      <Filter>vcl\display\image</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\opengl\debug\debug.cpp">
+      <Filter>vcl\display\opengl\debug</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\opengl\helper\opengl_helper.cpp">
+      <Filter>vcl\display\opengl\helper</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\opengl\shaders\shaders.cpp">
+      <Filter>vcl\display\opengl\shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\opengl\texture\texture.cpp">
+      <Filter>vcl\display\opengl\texture</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\opengl\uniform\uniform.cpp">
+      <Filter>vcl\display\opengl\uniform</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\window\window.cpp">
+      <Filter>vcl\display\window</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\files\files.cpp">
+      <Filter>vcl\files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\camera\camera_around_center\camera_around_center.cpp">
+      <Filter>vcl\interaction\camera\camera_around_center</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\camera\camera_base\camera_base.cpp">
+      <Filter>vcl\interaction\camera\camera_base</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\camera\camera_head\camera_head.cpp">
+      <Filter>vcl\interaction\camera\camera_head</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\camera\camera_spherical_coordinates\camera_spherical_coordinates.cpp">
+      <Filter>vcl\interaction\camera\camera_spherical_coordinates</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\camera\common_functions\common_functions.cpp">
+      <Filter>vcl\interaction\camera\common_functions</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\glfw_interaction\glfw_interaction.cpp">
+      <Filter>vcl\interaction\glfw_interaction</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\gui\gui.cpp">
+      <Filter>vcl\interaction\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\timer\timer_basic\timer_basic.cpp">
+      <Filter>vcl\interaction\timer\timer_basic</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\timer\timer_event_periodic\timer_event_periodic.cpp">
+      <Filter>vcl\interaction\timer\timer_event_periodic</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\timer\timer_fps\timer_fps.cpp">
+      <Filter>vcl\interaction\timer\timer_fps</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\timer\timer_interval\timer_interval.cpp">
+      <Filter>vcl\interaction\timer\timer_interval</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\tracker\velocity_tracker\velocity_tracker.cpp">
+      <Filter>vcl\interaction\tracker\velocity_tracker</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\affine\affine_rt\affine_rt.cpp">
+      <Filter>vcl\math\affine\affine_rt</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\affine\affine_rts\affine_rts.cpp">
+      <Filter>vcl\math\affine\affine_rts</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\frame\frame.cpp">
+      <Filter>vcl\math\frame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\interpolation\interpolation.cpp">
+      <Filter>vcl\math\interpolation</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\matrix\matrix_stack\special_types\definition\special_types.cpp">
+      <Filter>vcl\math\matrix\matrix_stack\special_types\definition</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\matrix\matrix_stack\special_types\mat4\mat4.cpp">
+      <Filter>vcl\math\matrix\matrix_stack\special_types\mat4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\matrix\test\test_matrix_stack.cpp">
+      <Filter>vcl\math\matrix\test</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\projection\projection.cpp">
+      <Filter>vcl\math\projection</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\quaternion\quaternion.cpp">
+      <Filter>vcl\math\quaternion</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\rotation\rotation.cpp">
+      <Filter>vcl\math\rotation</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\rotation\test\test_rotation.cpp">
+      <Filter>vcl\math\rotation\test</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\vec_mat\test\test_vec_mat.cpp">
+      <Filter>vcl\math\vec_mat\test</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\vec_mat\vec_mat.cpp">
+      <Filter>vcl\math\vec_mat</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\shaders_preset\shaders_preset.cpp">
+      <Filter>vcl\shaders_preset</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\shape\curve\curve.cpp">
+      <Filter>vcl\shape\curve</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\shape\intersection\intersection.cpp">
+      <Filter>vcl\shape\intersection</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\shape\mesh\loader\obj\obj.cpp">
+      <Filter>vcl\shape\mesh\loader\obj</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\shape\mesh\primitive\mesh_primitive.cpp">
+      <Filter>vcl\shape\mesh\primitive</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\shape\mesh\structure\mesh.cpp">
+      <Filter>vcl\shape\mesh\structure</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\shape\noise\noise.cpp">
+      <Filter>vcl\shape\noise</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\glad\src\glad.cpp">
+      <Filter>third_party\src\glad\src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\imgui\imgui.cpp">
+      <Filter>third_party\src\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\imgui\imgui_demo.cpp">
+      <Filter>third_party\src\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\imgui\imgui_draw.cpp">
+      <Filter>third_party\src\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\imgui\imgui_impl_glfw.cpp">
+      <Filter>third_party\src\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\imgui\imgui_impl_opengl3.cpp">
+      <Filter>third_party\src\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\imgui\imgui_widgets.cpp">
+      <Filter>third_party\src\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\lodepng\lodepng.cpp">
+      <Filter>third_party\src\lodepng</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\simplexnoise\simplexnoise1234.cpp">
+      <Filter>third_party\src\simplexnoise</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\Collision.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\DefaultMeshDrawable.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\DescriptiveAnimation.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\Flamethrower.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\FractalSphere.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\GravityBall.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\GravityBalls.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\GravityParticles.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\GuiWindow.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\Particle.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\ParticleSystem.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\Skybox.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\Smoke.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\Vortex.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\VortexPosition.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\Weapon.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\bird.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\dimensions.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\interpolation.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\mushroom.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\obj_loader.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\primitive.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\scene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\terrain.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\tree.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\user_interaction.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\utils.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\base\base.hpp">
+      <Filter>vcl\base</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\base\basic_types\basic_types.hpp">
+      <Filter>vcl\base\basic_types</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\base\error\error.hpp">
+      <Filter>vcl\base\error</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\base\rand\rand.hpp">
+      <Filter>vcl\base\rand</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\base\stl\stl.hpp">
+      <Filter>vcl\base\stl</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\base\string\string.hpp">
+      <Filter>vcl\base\string</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\base\types\types.hpp">
+      <Filter>vcl\base\types</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\containers\buffer\buffer.hpp">
+      <Filter>vcl\containers\buffer</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\containers\buffer\test\test_buffer.hpp">
+      <Filter>vcl\containers\buffer\test</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\containers\buffer_stack\buffer_stack.hpp">
+      <Filter>vcl\containers\buffer_stack</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\containers\buffer_stack\implementation\buffer_stack.hpp">
+      <Filter>vcl\containers\buffer_stack\implementation</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\containers\buffer_stack\implementation\buffer_stack2.hpp">
+      <Filter>vcl\containers\buffer_stack\implementation</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\containers\buffer_stack\implementation\buffer_stack3.hpp">
+      <Filter>vcl\containers\buffer_stack\implementation</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\containers\buffer_stack\implementation\buffer_stack4.hpp">
+      <Filter>vcl\containers\buffer_stack\implementation</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\containers\buffer_stack\special_types\special_types.hpp">
+      <Filter>vcl\containers\buffer_stack\special_types</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\containers\buffer_stack\test\test_buffer_stack.hpp">
+      <Filter>vcl\containers\buffer_stack\test</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\containers\containers.hpp">
+      <Filter>vcl\containers</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\containers\grid\grid.hpp">
+      <Filter>vcl\containers\grid</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\containers\grid\grid_2D\grid_2D.hpp">
+      <Filter>vcl\containers\grid\grid_2D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\containers\grid\grid_3D\grid_3D.hpp">
+      <Filter>vcl\containers\grid\grid_3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\containers\grid\test\test_grid.hpp">
+      <Filter>vcl\containers\grid\test</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\containers\grid_stack\grid_stack.hpp">
+      <Filter>vcl\containers\grid_stack</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\containers\grid_stack\grid_stack_2D\grid_stack_2D.hpp">
+      <Filter>vcl\containers\grid_stack\grid_stack_2D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\containers\grid_stack\grid_stack_2D\test\test_grid_stack_2D.hpp">
+      <Filter>vcl\containers\grid_stack\grid_stack_2D\test</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\containers\offset_grid\offset_grid.hpp">
+      <Filter>vcl\containers\offset_grid</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\display.hpp">
+      <Filter>vcl\display</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\drawable\curve_drawable\curve_drawable.hpp">
+      <Filter>vcl\display\drawable\curve_drawable</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\drawable\drawable.hpp">
+      <Filter>vcl\display\drawable</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\drawable\hierarchy_mesh_drawable\hierarchy_mesh_drawable.hpp">
+      <Filter>vcl\display\drawable\hierarchy_mesh_drawable</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\drawable\hierarchy_mesh_drawable\hierarchy_mesh_drawable_node\hierarchy_mesh_drawable_node.hpp">
+      <Filter>vcl\display\drawable\hierarchy_mesh_drawable\hierarchy_mesh_drawable_node</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\drawable\mesh_drawable\mesh_drawable.hpp">
+      <Filter>vcl\display\drawable\mesh_drawable</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\drawable\mesh_normal_drawable\mesh_normal_drawable.hpp">
+      <Filter>vcl\display\drawable\mesh_normal_drawable</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\drawable\mesh_wireframe_drawable\mesh_wireframe_drawable.hpp">
+      <Filter>vcl\display\drawable\mesh_wireframe_drawable</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\drawable\segments_drawable\segments_drawable.hpp">
+      <Filter>vcl\display\drawable\segments_drawable</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\drawable\shading_parameters\shading_parameters.hpp">
+      <Filter>vcl\display\drawable\shading_parameters</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\drawable\trajectory_drawable\trajectory_drawable.hpp">
+      <Filter>vcl\display\drawable\trajectory_drawable</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\image\image.hpp">
+      <Filter>vcl\display\image</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\opengl\debug\debug.hpp">
+      <Filter>vcl\display\opengl\debug</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\opengl\glad\glad.hpp">
+      <Filter>vcl\display\opengl\glad</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\opengl\helper\opengl_helper.hpp">
+      <Filter>vcl\display\opengl\helper</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\opengl\opengl.hpp">
+      <Filter>vcl\display\opengl</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\opengl\shaders\shaders.hpp">
+      <Filter>vcl\display\opengl\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\opengl\texture\texture.hpp">
+      <Filter>vcl\display\opengl\texture</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\opengl\uniform\uniform.hpp">
+      <Filter>vcl\display\opengl\uniform</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\display\window\window.hpp">
+      <Filter>vcl\display\window</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\files\files.hpp">
+      <Filter>vcl\files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\camera\camera.hpp">
+      <Filter>vcl\interaction\camera</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\camera\camera_around_center\camera_around_center.hpp">
+      <Filter>vcl\interaction\camera\camera_around_center</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\camera\camera_base\camera_base.hpp">
+      <Filter>vcl\interaction\camera\camera_base</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\camera\camera_head\camera_head.hpp">
+      <Filter>vcl\interaction\camera\camera_head</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\camera\camera_spherical_coordinates\camera_spherical_coordinates.hpp">
+      <Filter>vcl\interaction\camera\camera_spherical_coordinates</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\camera\common_functions\common_functions.hpp">
+      <Filter>vcl\interaction\camera\common_functions</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\glfw_interaction\glfw_interaction.hpp">
+      <Filter>vcl\interaction\glfw_interaction</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\gui\gui.hpp">
+      <Filter>vcl\interaction\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\interaction.hpp">
+      <Filter>vcl\interaction</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\timer\timer.hpp">
+      <Filter>vcl\interaction\timer</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\timer\timer_basic\timer_basic.hpp">
+      <Filter>vcl\interaction\timer\timer_basic</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\timer\timer_event_periodic\timer_event_periodic.hpp">
+      <Filter>vcl\interaction\timer\timer_event_periodic</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\timer\timer_fps\timer_fps.hpp">
+      <Filter>vcl\interaction\timer\timer_fps</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\timer\timer_interval\timer_interval.hpp">
+      <Filter>vcl\interaction\timer\timer_interval</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\tracker\tracker.hpp">
+      <Filter>vcl\interaction\tracker</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\interaction\tracker\velocity_tracker\velocity_tracker.hpp">
+      <Filter>vcl\interaction\tracker\velocity_tracker</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\affine\affine.hpp">
+      <Filter>vcl\math\affine</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\affine\affine_rt\affine_rt.hpp">
+      <Filter>vcl\math\affine\affine_rt</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\affine\affine_rts\affine_rts.hpp">
+      <Filter>vcl\math\affine\affine_rts</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\frame\frame.hpp">
+      <Filter>vcl\math\frame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\interpolation\interpolation.hpp">
+      <Filter>vcl\math\interpolation</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\math.hpp">
+      <Filter>vcl\math</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\matrix\matrix.hpp">
+      <Filter>vcl\math\matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\matrix\matrix_stack\matrix_stack.hpp">
+      <Filter>vcl\math\matrix\matrix_stack</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\matrix\matrix_stack\special_types\definition\special_types.hpp">
+      <Filter>vcl\math\matrix\matrix_stack\special_types\definition</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\matrix\matrix_stack\special_types\mat4\mat4.hpp">
+      <Filter>vcl\math\matrix\matrix_stack\special_types\mat4</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\matrix\matrix_stack\special_types\special_types.hpp">
+      <Filter>vcl\math\matrix\matrix_stack\special_types</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\matrix\test\test_matrix_stack.hpp">
+      <Filter>vcl\math\matrix\test</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\projection\projection.hpp">
+      <Filter>vcl\math\projection</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\quaternion\quaternion.hpp">
+      <Filter>vcl\math\quaternion</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\rotation\rotation.hpp">
+      <Filter>vcl\math\rotation</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\rotation\test\test_rotation.hpp">
+      <Filter>vcl\math\rotation\test</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\vec_mat\test\test_vec_mat.hpp">
+      <Filter>vcl\math\vec_mat\test</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\math\vec_mat\vec_mat.hpp">
+      <Filter>vcl\math\vec_mat</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\shaders_preset\shaders_preset.hpp">
+      <Filter>vcl\shaders_preset</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\shape\curve\curve.hpp">
+      <Filter>vcl\shape\curve</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\shape\intersection\intersection.hpp">
+      <Filter>vcl\shape\intersection</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\shape\mesh\loader\loader.hpp">
+      <Filter>vcl\shape\mesh\loader</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\shape\mesh\loader\obj\obj.hpp">
+      <Filter>vcl\shape\mesh\loader\obj</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\shape\mesh\mesh.hpp">
+      <Filter>vcl\shape\mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\shape\mesh\primitive\mesh_primitive.hpp">
+      <Filter>vcl\shape\mesh\primitive</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\shape\mesh\structure\mesh.hpp">
+      <Filter>vcl\shape\mesh\structure</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\shape\noise\noise.hpp">
+      <Filter>vcl\shape\noise</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\shape\shape.hpp">
+      <Filter>vcl\shape</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\vcl\vcl.hpp">
+      <Filter>vcl</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Cholesky\LDLT.h">
+      <Filter>third_party\src\eigen\Eigen\src\Cholesky</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Cholesky\LLT.h">
+      <Filter>third_party\src\eigen\Eigen\src\Cholesky</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Cholesky\LLT_LAPACKE.h">
+      <Filter>third_party\src\eigen\Eigen\src\Cholesky</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\CholmodSupport\CholmodSupport.h">
+      <Filter>third_party\src\eigen\Eigen\src\CholmodSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\Array.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\ArrayBase.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\ArrayWrapper.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\Assign.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\AssignEvaluator.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\Assign_MKL.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\BandMatrix.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\Block.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\BooleanRedux.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\CommaInitializer.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\ConditionEstimator.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\CoreEvaluators.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\CoreIterators.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\CwiseBinaryOp.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\CwiseNullaryOp.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\CwiseTernaryOp.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\CwiseUnaryOp.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\CwiseUnaryView.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\DenseBase.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\DenseCoeffsBase.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\DenseStorage.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\Diagonal.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\DiagonalMatrix.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\DiagonalProduct.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\Dot.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\EigenBase.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\ForceAlignedAccess.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\Fuzzy.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\GeneralProduct.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\GenericPacketMath.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\GlobalFunctions.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\IO.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\Inverse.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\Map.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\MapBase.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\MathFunctions.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\MathFunctionsImpl.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\Matrix.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\MatrixBase.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\NestByValue.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\NoAlias.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\NumTraits.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\PermutationMatrix.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\PlainObjectBase.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\Product.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\ProductEvaluators.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\Random.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\Redux.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\Ref.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\Replicate.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\ReturnByValue.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\Reverse.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\Select.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\SelfAdjointView.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\SelfCwiseBinaryOp.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\Solve.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\SolveTriangular.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\SolverBase.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\StableNorm.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\Stride.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\Swap.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\Transpose.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\Transpositions.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\TriangularMatrix.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\VectorBlock.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\VectorwiseOp.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\Visitor.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\AVX\Complex.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\AVX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\AVX\MathFunctions.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\AVX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\AVX\PacketMath.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\AVX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\AVX\TypeCasting.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\AVX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\AVX512\MathFunctions.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\AVX512</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\AVX512\PacketMath.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\AVX512</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\AltiVec\Complex.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\AltiVec</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\AltiVec\MathFunctions.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\AltiVec</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\AltiVec\PacketMath.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\AltiVec</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\CUDA\Complex.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\CUDA</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\CUDA\Half.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\CUDA</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\CUDA\MathFunctions.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\CUDA</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\CUDA\PacketMath.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\CUDA</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\CUDA\PacketMathHalf.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\CUDA</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\CUDA\TypeCasting.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\CUDA</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\Default\ConjHelper.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\Default</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\Default\Settings.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\Default</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\NEON\Complex.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\NEON</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\NEON\MathFunctions.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\NEON</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\NEON\PacketMath.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\NEON</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\SSE\Complex.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\SSE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\SSE\MathFunctions.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\SSE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\SSE\PacketMath.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\SSE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\SSE\TypeCasting.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\SSE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\ZVector\Complex.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\ZVector</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\ZVector\MathFunctions.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\ZVector</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\arch\ZVector\PacketMath.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\arch\ZVector</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\functors\AssignmentFunctors.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\functors</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\functors\BinaryFunctors.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\functors</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\functors\NullaryFunctors.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\functors</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\functors\StlFunctors.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\functors</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\functors\TernaryFunctors.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\functors</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\functors\UnaryFunctors.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\functors</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\products\GeneralBlockPanelKernel.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\products</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\products\GeneralMatrixMatrix.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\products</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\products\GeneralMatrixMatrixTriangular.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\products</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\products\GeneralMatrixMatrixTriangular_BLAS.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\products</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\products\GeneralMatrixMatrix_BLAS.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\products</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\products\GeneralMatrixVector.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\products</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\products\GeneralMatrixVector_BLAS.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\products</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\products\Parallelizer.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\products</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\products\SelfadjointMatrixMatrix.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\products</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\products\SelfadjointMatrixMatrix_BLAS.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\products</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\products\SelfadjointMatrixVector.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\products</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\products\SelfadjointMatrixVector_BLAS.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\products</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\products\SelfadjointProduct.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\products</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\products\SelfadjointRank2Update.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\products</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\products\TriangularMatrixMatrix.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\products</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\products\TriangularMatrixMatrix_BLAS.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\products</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\products\TriangularMatrixVector.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\products</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\products\TriangularMatrixVector_BLAS.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\products</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\products\TriangularSolverMatrix.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\products</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\products\TriangularSolverMatrix_BLAS.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\products</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\products\TriangularSolverVector.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\products</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\util\BlasUtil.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\util</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\util\Constants.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\util</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\util\DisableStupidWarnings.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\util</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\util\ForwardDeclarations.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\util</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\util\MKL_support.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\util</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\util\Macros.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\util</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\util\Memory.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\util</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\util\Meta.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\util</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\util\NonMPL2.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\util</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\util\ReenableStupidWarnings.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\util</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\util\StaticAssert.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\util</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Core\util\XprHelper.h">
+      <Filter>third_party\src\eigen\Eigen\src\Core\util</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Eigenvalues\ComplexEigenSolver.h">
+      <Filter>third_party\src\eigen\Eigen\src\Eigenvalues</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Eigenvalues\ComplexSchur.h">
+      <Filter>third_party\src\eigen\Eigen\src\Eigenvalues</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Eigenvalues\ComplexSchur_LAPACKE.h">
+      <Filter>third_party\src\eigen\Eigen\src\Eigenvalues</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Eigenvalues\EigenSolver.h">
+      <Filter>third_party\src\eigen\Eigen\src\Eigenvalues</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Eigenvalues\GeneralizedEigenSolver.h">
+      <Filter>third_party\src\eigen\Eigen\src\Eigenvalues</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Eigenvalues\GeneralizedSelfAdjointEigenSolver.h">
+      <Filter>third_party\src\eigen\Eigen\src\Eigenvalues</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Eigenvalues\HessenbergDecomposition.h">
+      <Filter>third_party\src\eigen\Eigen\src\Eigenvalues</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Eigenvalues\MatrixBaseEigenvalues.h">
+      <Filter>third_party\src\eigen\Eigen\src\Eigenvalues</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Eigenvalues\RealQZ.h">
+      <Filter>third_party\src\eigen\Eigen\src\Eigenvalues</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Eigenvalues\RealSchur.h">
+      <Filter>third_party\src\eigen\Eigen\src\Eigenvalues</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Eigenvalues\RealSchur_LAPACKE.h">
+      <Filter>third_party\src\eigen\Eigen\src\Eigenvalues</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Eigenvalues\SelfAdjointEigenSolver.h">
+      <Filter>third_party\src\eigen\Eigen\src\Eigenvalues</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Eigenvalues\SelfAdjointEigenSolver_LAPACKE.h">
+      <Filter>third_party\src\eigen\Eigen\src\Eigenvalues</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Eigenvalues\Tridiagonalization.h">
+      <Filter>third_party\src\eigen\Eigen\src\Eigenvalues</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Geometry\AlignedBox.h">
+      <Filter>third_party\src\eigen\Eigen\src\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Geometry\AngleAxis.h">
+      <Filter>third_party\src\eigen\Eigen\src\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Geometry\EulerAngles.h">
+      <Filter>third_party\src\eigen\Eigen\src\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Geometry\Homogeneous.h">
+      <Filter>third_party\src\eigen\Eigen\src\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Geometry\Hyperplane.h">
+      <Filter>third_party\src\eigen\Eigen\src\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Geometry\OrthoMethods.h">
+      <Filter>third_party\src\eigen\Eigen\src\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Geometry\ParametrizedLine.h">
+      <Filter>third_party\src\eigen\Eigen\src\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Geometry\Quaternion.h">
+      <Filter>third_party\src\eigen\Eigen\src\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Geometry\Rotation2D.h">
+      <Filter>third_party\src\eigen\Eigen\src\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Geometry\RotationBase.h">
+      <Filter>third_party\src\eigen\Eigen\src\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Geometry\Scaling.h">
+      <Filter>third_party\src\eigen\Eigen\src\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Geometry\Transform.h">
+      <Filter>third_party\src\eigen\Eigen\src\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Geometry\Translation.h">
+      <Filter>third_party\src\eigen\Eigen\src\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Geometry\Umeyama.h">
+      <Filter>third_party\src\eigen\Eigen\src\Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Geometry\arch\Geometry_SSE.h">
+      <Filter>third_party\src\eigen\Eigen\src\Geometry\arch</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Householder\BlockHouseholder.h">
+      <Filter>third_party\src\eigen\Eigen\src\Householder</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Householder\Householder.h">
+      <Filter>third_party\src\eigen\Eigen\src\Householder</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Householder\HouseholderSequence.h">
+      <Filter>third_party\src\eigen\Eigen\src\Householder</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\IterativeLinearSolvers\BasicPreconditioners.h">
+      <Filter>third_party\src\eigen\Eigen\src\IterativeLinearSolvers</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\IterativeLinearSolvers\BiCGSTAB.h">
+      <Filter>third_party\src\eigen\Eigen\src\IterativeLinearSolvers</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\IterativeLinearSolvers\ConjugateGradient.h">
+      <Filter>third_party\src\eigen\Eigen\src\IterativeLinearSolvers</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\IterativeLinearSolvers\IncompleteCholesky.h">
+      <Filter>third_party\src\eigen\Eigen\src\IterativeLinearSolvers</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\IterativeLinearSolvers\IncompleteLUT.h">
+      <Filter>third_party\src\eigen\Eigen\src\IterativeLinearSolvers</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\IterativeLinearSolvers\IterativeSolverBase.h">
+      <Filter>third_party\src\eigen\Eigen\src\IterativeLinearSolvers</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\IterativeLinearSolvers\LeastSquareConjugateGradient.h">
+      <Filter>third_party\src\eigen\Eigen\src\IterativeLinearSolvers</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\IterativeLinearSolvers\SolveWithGuess.h">
+      <Filter>third_party\src\eigen\Eigen\src\IterativeLinearSolvers</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\Jacobi\Jacobi.h">
+      <Filter>third_party\src\eigen\Eigen\src\Jacobi</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\LU\Determinant.h">
+      <Filter>third_party\src\eigen\Eigen\src\LU</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\LU\FullPivLU.h">
+      <Filter>third_party\src\eigen\Eigen\src\LU</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\LU\InverseImpl.h">
+      <Filter>third_party\src\eigen\Eigen\src\LU</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\LU\PartialPivLU.h">
+      <Filter>third_party\src\eigen\Eigen\src\LU</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\LU\PartialPivLU_LAPACKE.h">
+      <Filter>third_party\src\eigen\Eigen\src\LU</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\LU\arch\Inverse_SSE.h">
+      <Filter>third_party\src\eigen\Eigen\src\LU\arch</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\MetisSupport\MetisSupport.h">
+      <Filter>third_party\src\eigen\Eigen\src\MetisSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\OrderingMethods\Amd.h">
+      <Filter>third_party\src\eigen\Eigen\src\OrderingMethods</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\OrderingMethods\Eigen_Colamd.h">
+      <Filter>third_party\src\eigen\Eigen\src\OrderingMethods</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\OrderingMethods\Ordering.h">
+      <Filter>third_party\src\eigen\Eigen\src\OrderingMethods</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\PaStiXSupport\PaStiXSupport.h">
+      <Filter>third_party\src\eigen\Eigen\src\PaStiXSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\PardisoSupport\PardisoSupport.h">
+      <Filter>third_party\src\eigen\Eigen\src\PardisoSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\QR\ColPivHouseholderQR.h">
+      <Filter>third_party\src\eigen\Eigen\src\QR</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\QR\ColPivHouseholderQR_LAPACKE.h">
+      <Filter>third_party\src\eigen\Eigen\src\QR</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\QR\CompleteOrthogonalDecomposition.h">
+      <Filter>third_party\src\eigen\Eigen\src\QR</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\QR\FullPivHouseholderQR.h">
+      <Filter>third_party\src\eigen\Eigen\src\QR</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\QR\HouseholderQR.h">
+      <Filter>third_party\src\eigen\Eigen\src\QR</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\QR\HouseholderQR_LAPACKE.h">
+      <Filter>third_party\src\eigen\Eigen\src\QR</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SPQRSupport\SuiteSparseQRSupport.h">
+      <Filter>third_party\src\eigen\Eigen\src\SPQRSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SVD\BDCSVD.h">
+      <Filter>third_party\src\eigen\Eigen\src\SVD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SVD\JacobiSVD.h">
+      <Filter>third_party\src\eigen\Eigen\src\SVD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SVD\JacobiSVD_LAPACKE.h">
+      <Filter>third_party\src\eigen\Eigen\src\SVD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SVD\SVDBase.h">
+      <Filter>third_party\src\eigen\Eigen\src\SVD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SVD\UpperBidiagonalization.h">
+      <Filter>third_party\src\eigen\Eigen\src\SVD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCholesky\SimplicialCholesky.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCholesky</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCholesky\SimplicialCholesky_impl.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCholesky</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\AmbiVector.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\CompressedStorage.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\ConservativeSparseSparseProduct.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\MappedSparseMatrix.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\SparseAssign.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\SparseBlock.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\SparseColEtree.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\SparseCompressedBase.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\SparseCwiseBinaryOp.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\SparseCwiseUnaryOp.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\SparseDenseProduct.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\SparseDiagonalProduct.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\SparseDot.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\SparseFuzzy.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\SparseMap.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\SparseMatrix.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\SparseMatrixBase.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\SparsePermutation.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\SparseProduct.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\SparseRedux.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\SparseRef.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\SparseSelfAdjointView.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\SparseSolverBase.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\SparseSparseProductWithPruning.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\SparseTranspose.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\SparseTriangularView.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\SparseUtil.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\SparseVector.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\SparseView.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseCore\TriangularSolver.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseCore</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseLU\SparseLU.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseLU</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseLU\SparseLUImpl.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseLU</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseLU\SparseLU_Memory.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseLU</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseLU\SparseLU_Structs.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseLU</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseLU\SparseLU_SupernodalMatrix.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseLU</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseLU\SparseLU_Utils.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseLU</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseLU\SparseLU_column_bmod.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseLU</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseLU\SparseLU_column_dfs.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseLU</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseLU\SparseLU_copy_to_ucol.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseLU</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseLU\SparseLU_gemm_kernel.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseLU</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseLU\SparseLU_heap_relax_snode.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseLU</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseLU\SparseLU_kernel_bmod.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseLU</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseLU\SparseLU_panel_bmod.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseLU</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseLU\SparseLU_panel_dfs.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseLU</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseLU\SparseLU_pivotL.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseLU</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseLU\SparseLU_pruneL.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseLU</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseLU\SparseLU_relax_snode.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseLU</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SparseQR\SparseQR.h">
+      <Filter>third_party\src\eigen\Eigen\src\SparseQR</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\StlSupport\StdDeque.h">
+      <Filter>third_party\src\eigen\Eigen\src\StlSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\StlSupport\StdList.h">
+      <Filter>third_party\src\eigen\Eigen\src\StlSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\StlSupport\StdVector.h">
+      <Filter>third_party\src\eigen\Eigen\src\StlSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\StlSupport\details.h">
+      <Filter>third_party\src\eigen\Eigen\src\StlSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\SuperLUSupport\SuperLUSupport.h">
+      <Filter>third_party\src\eigen\Eigen\src\SuperLUSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\UmfPackSupport\UmfPackSupport.h">
+      <Filter>third_party\src\eigen\Eigen\src\UmfPackSupport</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\misc\Image.h">
+      <Filter>third_party\src\eigen\Eigen\src\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\misc\Kernel.h">
+      <Filter>third_party\src\eigen\Eigen\src\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\misc\RealSvd2x2.h">
+      <Filter>third_party\src\eigen\Eigen\src\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\misc\blas.h">
+      <Filter>third_party\src\eigen\Eigen\src\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\misc\lapack.h">
+      <Filter>third_party\src\eigen\Eigen\src\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\misc\lapacke.h">
+      <Filter>third_party\src\eigen\Eigen\src\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\misc\lapacke_mangling.h">
+      <Filter>third_party\src\eigen\Eigen\src\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\plugins\ArrayCwiseBinaryOps.h">
+      <Filter>third_party\src\eigen\Eigen\src\plugins</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\plugins\ArrayCwiseUnaryOps.h">
+      <Filter>third_party\src\eigen\Eigen\src\plugins</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\plugins\BlockMethods.h">
+      <Filter>third_party\src\eigen\Eigen\src\plugins</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\plugins\CommonCwiseBinaryOps.h">
+      <Filter>third_party\src\eigen\Eigen\src\plugins</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\plugins\CommonCwiseUnaryOps.h">
+      <Filter>third_party\src\eigen\Eigen\src\plugins</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\plugins\MatrixCwiseBinaryOps.h">
+      <Filter>third_party\src\eigen\Eigen\src\plugins</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\eigen\Eigen\src\plugins\MatrixCwiseUnaryOps.h">
+      <Filter>third_party\src\eigen\Eigen\src\plugins</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\glad\include\glad\glad.hpp">
+      <Filter>third_party\src\glad\include\glad</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\imgui\imconfig.h">
+      <Filter>third_party\src\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\imgui\imgui.h">
+      <Filter>third_party\src\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\imgui\imgui_impl_glfw.h">
+      <Filter>third_party\src\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\imgui\imgui_impl_opengl3.h">
+      <Filter>third_party\src\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\imgui\imgui_internal.h">
+      <Filter>third_party\src\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\imgui\imstb_rectpack.h">
+      <Filter>third_party\src\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\imgui\imstb_textedit.h">
+      <Filter>third_party\src\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\imgui\imstb_truetype.h">
+      <Filter>third_party\src\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\lodepng\lodepng.h">
+      <Filter>third_party\src\lodepng</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\obj_loader\OBJ_Loader.h">
+      <Filter>third_party\src\obj_loader</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\library\third_party\src\simplexnoise\simplexnoise1234.hpp">
+      <Filter>third_party\src\simplexnoise</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\Collision.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\DefaultMeshDrawable.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\DescriptiveAnimation.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\Flamethrower.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\FractalSphere.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\GravityBall.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\GravityBalls.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\GravityParticles.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\GuiWindow.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\Particle.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\ParticleSystem.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\Skybox.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\Smoke.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\Vortex.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\VortexPosition.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\Weapon.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\dimensions.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\interpolation.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\mushroom.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\primitive.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\scene.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\terrain.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\tree.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\src\utils.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Desktop\Dario\old\2A\INF443\Final project\scenes\inf443\project\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{3CF39EEF-F230-3580-B823-812D96136523}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party">
+      <UniqueIdentifier>{55119609-0A20-32B7-98EC-D69D32CA322B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src">
+      <UniqueIdentifier>{E7E718E2-6CCA-303E-AF7A-55B0EA05BBF8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen">
+      <UniqueIdentifier>{526CC032-1691-33E6-A7F4-E5A49E487880}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen">
+      <UniqueIdentifier>{B7E3D539-0ED0-35D9-BECA-D8794282E3A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src">
+      <UniqueIdentifier>{5C3FE3D3-088B-3882-A06D-CB8F96DFFB0D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\Cholesky">
+      <UniqueIdentifier>{15B473E3-D6BF-3CD9-A438-2BB9E4E690B5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\CholmodSupport">
+      <UniqueIdentifier>{CDDB101F-B5FC-3B53-AE6E-84E3C5E9CE9E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\Core">
+      <UniqueIdentifier>{DF41EB02-7A8E-3DF7-81D2-3E82FEC9790D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\Core\arch">
+      <UniqueIdentifier>{E5352DAA-CC04-3FE6-8E98-EE6745375835}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\Core\arch\AVX">
+      <UniqueIdentifier>{B88EF711-2830-39A1-B0D7-7FBDC9158D59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\Core\arch\AVX512">
+      <UniqueIdentifier>{70587932-4C4B-3E60-8AAE-A2F539E210E2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\Core\arch\AltiVec">
+      <UniqueIdentifier>{843A6A48-3509-3C41-898E-11AEDC6BC9C4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\Core\arch\CUDA">
+      <UniqueIdentifier>{725BA146-53D4-3618-AE07-019D9994561A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\Core\arch\Default">
+      <UniqueIdentifier>{BF45ED68-B8FB-33E9-8E65-1A6EAA846D95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\Core\arch\NEON">
+      <UniqueIdentifier>{8C839971-3216-385E-83C1-BDD101D0CA0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\Core\arch\SSE">
+      <UniqueIdentifier>{E23398EE-A0CE-31B9-BD82-BD476ED68842}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\Core\arch\ZVector">
+      <UniqueIdentifier>{9AC5D705-EF26-3225-A45A-12227EA315F6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\Core\functors">
+      <UniqueIdentifier>{4EA67140-2BC3-3C48-8203-073155633F88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\Core\products">
+      <UniqueIdentifier>{069C20E9-FF18-3020-856F-1E14F82F5B3A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\Core\util">
+      <UniqueIdentifier>{6D8ED19B-AE7A-3FCD-80F3-335C3F55875C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\Eigenvalues">
+      <UniqueIdentifier>{1E67DAE6-24A4-3D8F-9A63-E30B2AA3A495}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\Geometry">
+      <UniqueIdentifier>{ADF41438-CB22-31BE-BC23-1ECD9C692A07}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\Geometry\arch">
+      <UniqueIdentifier>{AD37693E-6901-3ACF-AC56-B1D9F4E6D2DD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\Householder">
+      <UniqueIdentifier>{AB6BD8AD-CDEF-38A5-BFE4-6FBE0486E04D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\IterativeLinearSolvers">
+      <UniqueIdentifier>{96775343-1AF4-3F6D-869B-FDCA8FC4BCE7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\Jacobi">
+      <UniqueIdentifier>{9795DD69-EE6B-3AF5-A53E-AC4C4EFFE518}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\LU">
+      <UniqueIdentifier>{D83AB912-B5C8-30DE-9C66-2EF211C6EE19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\LU\arch">
+      <UniqueIdentifier>{2DA750F5-8FF0-32F0-905E-0F7FACF2F47C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\MetisSupport">
+      <UniqueIdentifier>{9B012560-B825-30EB-AB7A-3C0E8C961202}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\OrderingMethods">
+      <UniqueIdentifier>{293A1635-B373-3EB7-A61D-12373166AA2A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\PaStiXSupport">
+      <UniqueIdentifier>{B8235D69-01BA-3A01-93DA-578DB2351A73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\PardisoSupport">
+      <UniqueIdentifier>{27F2D5F5-3C0B-3B4C-A98D-C376B8A5314D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\QR">
+      <UniqueIdentifier>{98DE6374-1980-33CB-B53F-A51B0B859C70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\SPQRSupport">
+      <UniqueIdentifier>{07922DC7-CE2C-325D-86EB-FB5559D451B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\SVD">
+      <UniqueIdentifier>{B2FE5C07-211D-3FEB-96D7-0E74871D5DDF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\SparseCholesky">
+      <UniqueIdentifier>{7546427A-02DF-3918-90AE-98B04B523F81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\SparseCore">
+      <UniqueIdentifier>{1D89E421-1A18-3EA2-AA7B-9366F87681CA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\SparseLU">
+      <UniqueIdentifier>{B5B0D274-BDBB-3037-8E87-CFF8873F958C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\SparseQR">
+      <UniqueIdentifier>{6CA5F1D9-FB59-3B0C-B370-94ECB5F76907}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\StlSupport">
+      <UniqueIdentifier>{A6E2E195-ABB9-3D56-8299-71B01784EDDE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\SuperLUSupport">
+      <UniqueIdentifier>{0FF19142-EDCB-3A84-B068-27E9A9ABB498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\UmfPackSupport">
+      <UniqueIdentifier>{B1A68994-7F63-3EAE-9F93-DB871555C85D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\misc">
+      <UniqueIdentifier>{CD686FE0-F18B-379E-A04C-A6223CF1CEFD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\eigen\Eigen\src\plugins">
+      <UniqueIdentifier>{6C6216C2-1043-3672-8946-F01C9700216E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\glad">
+      <UniqueIdentifier>{B0959D3F-2125-3674-8B3F-667E1C1C832E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\glad\include">
+      <UniqueIdentifier>{143D567E-0FC7-3B59-A3DF-CF7BB9AAB934}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\glad\include\glad">
+      <UniqueIdentifier>{EB683405-181C-3577-9F14-9C965A9830CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\glad\src">
+      <UniqueIdentifier>{2140CEEC-5BE9-35DF-9D03-BE995711A9E5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\imgui">
+      <UniqueIdentifier>{AEEB184E-95B1-39CF-87E9-743548B143DA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\lodepng">
+      <UniqueIdentifier>{1356E209-F71F-363D-86BF-0498E4CB0BF9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\obj_loader">
+      <UniqueIdentifier>{D66E721F-8744-3A68-8334-A822F5041E6D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\simplexnoise">
+      <UniqueIdentifier>{975228E5-1087-315D-940B-EAA87AC8E1D0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl">
+      <UniqueIdentifier>{1E52C529-C2C4-384F-B98C-EFC160181F5B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\base">
+      <UniqueIdentifier>{657C65B4-E686-34B1-8B22-3AF3DD93982D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\base\basic_types">
+      <UniqueIdentifier>{78EA8B5A-ECF0-37A8-B0A9-62009AD77C18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\base\error">
+      <UniqueIdentifier>{779751D1-B7CE-3A6B-B142-15202FD6450F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\base\rand">
+      <UniqueIdentifier>{F0DE1936-BBDE-3289-8A8E-AA7C2B03447A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\base\stl">
+      <UniqueIdentifier>{AC45B0EC-B8B5-330C-ABE7-2EFFEBE21461}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\base\string">
+      <UniqueIdentifier>{7D1411AB-390E-3D67-AFC6-7600D3FEECB1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\base\types">
+      <UniqueIdentifier>{CFEC3A44-28DC-3DCA-8CFF-A6C999DE1F3A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\containers">
+      <UniqueIdentifier>{4A2138FA-A0BC-347F-9735-D164373318D0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\containers\buffer">
+      <UniqueIdentifier>{FAF392B7-F56A-320E-BE1D-6628DB79FE1F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\containers\buffer\test">
+      <UniqueIdentifier>{C16923DE-E2F9-3FAB-9966-35049E092357}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\containers\buffer_stack">
+      <UniqueIdentifier>{9C82344A-2A88-3682-8431-97EEAB29CB50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\containers\buffer_stack\implementation">
+      <UniqueIdentifier>{52163D2F-8879-3187-BB6C-A41F0DCE7B72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\containers\buffer_stack\special_types">
+      <UniqueIdentifier>{F8B19AEC-9C12-3FEE-8646-288D807444DF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\containers\buffer_stack\test">
+      <UniqueIdentifier>{AE88D8E1-2144-3636-ADC9-80F36B6316BD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\containers\grid">
+      <UniqueIdentifier>{5FAB203B-CFF4-3F1B-936E-BC56CA31D03F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\containers\grid\grid_2D">
+      <UniqueIdentifier>{A3F29834-78B4-314D-A094-3E12AB6B3477}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\containers\grid\grid_3D">
+      <UniqueIdentifier>{CC45C1CD-CB75-371F-9C02-1CC5E9F2D9F6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\containers\grid\test">
+      <UniqueIdentifier>{41D4AC95-43B2-340E-BA07-A18611FF8989}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\containers\grid_stack">
+      <UniqueIdentifier>{BFE5DD13-B1E3-334B-B740-70297F76DF42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\containers\grid_stack\grid_stack_2D">
+      <UniqueIdentifier>{190E4E98-DE9C-3E8F-A4CF-C8C5845E559B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\containers\grid_stack\grid_stack_2D\test">
+      <UniqueIdentifier>{78A3167E-7DBD-3A72-BCE1-027D0D857B4D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\containers\offset_grid">
+      <UniqueIdentifier>{2B871123-7B75-33CD-A0B0-A06A5385E491}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\display">
+      <UniqueIdentifier>{981F803D-5432-32E8-9FB7-DAA65680641D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\display\drawable">
+      <UniqueIdentifier>{F2BAF0D9-C2EB-38EB-8749-ECDFAEE66B5F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\display\drawable\curve_drawable">
+      <UniqueIdentifier>{F9D5A1EA-B358-3C3D-95B0-1B8833CC9ED6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\display\drawable\hierarchy_mesh_drawable">
+      <UniqueIdentifier>{AAC87759-F9C6-3779-B67F-FBC1CECEC962}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\display\drawable\hierarchy_mesh_drawable\hierarchy_mesh_drawable_node">
+      <UniqueIdentifier>{314D8566-BE73-3E6B-8ED1-608411D8BEB8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\display\drawable\mesh_drawable">
+      <UniqueIdentifier>{0F8971D5-0A22-36C2-945E-B9BA7D95B7D8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\display\drawable\mesh_normal_drawable">
+      <UniqueIdentifier>{01D0946E-1851-3E40-83AA-0E6FE454AC6F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\display\drawable\mesh_wireframe_drawable">
+      <UniqueIdentifier>{3C5D806C-BC46-30EA-BD70-0653E601A539}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\display\drawable\segments_drawable">
+      <UniqueIdentifier>{96FA55C2-48DE-3D87-BFA4-2C0023CE7734}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\display\drawable\shading_parameters">
+      <UniqueIdentifier>{4DB6B4CD-9010-3BC1-9AA0-07969DD759A2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\display\drawable\trajectory_drawable">
+      <UniqueIdentifier>{00550C7E-77DF-32E3-89AF-530BC78456D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\display\image">
+      <UniqueIdentifier>{2D478B86-DB3D-3DA9-8F48-B1AA69EF2B82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\display\opengl">
+      <UniqueIdentifier>{FF5FEDFB-8F75-3EE4-A94F-6341B0BB5D56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\display\opengl\debug">
+      <UniqueIdentifier>{6A7B7587-F97B-3C7C-87E7-910C42A195E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\display\opengl\glad">
+      <UniqueIdentifier>{DEDF80B2-6CB8-3A19-A269-016A677A2B38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\display\opengl\helper">
+      <UniqueIdentifier>{3B43AD98-4AFF-30DA-9692-575E73C9CE5B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\display\opengl\shaders">
+      <UniqueIdentifier>{9FE39443-A926-35F3-BF2E-3834E94D12D3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\display\opengl\texture">
+      <UniqueIdentifier>{4D4C6EEB-99BB-3B9D-8E4C-F5C85F89C0FC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\display\opengl\uniform">
+      <UniqueIdentifier>{BFE9EA5A-3B6F-3D62-AE22-5F53F33FAA1E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\display\window">
+      <UniqueIdentifier>{9F2A47BD-3FAD-3B24-8AA0-0AD3D2213DCC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\files">
+      <UniqueIdentifier>{12EDDB68-893A-3C12-BB6B-8789B22FBD2B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\interaction">
+      <UniqueIdentifier>{28620E32-B1C9-32D2-BC17-28EA575DF7F4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\interaction\camera">
+      <UniqueIdentifier>{6C02F9DD-B13E-3DDF-9749-8464BFA3130C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\interaction\camera\camera_around_center">
+      <UniqueIdentifier>{1FBF3785-A465-3483-A047-44258CCB7004}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\interaction\camera\camera_base">
+      <UniqueIdentifier>{AA840A31-02ED-3DBE-B3F0-432FFB4EDA51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\interaction\camera\camera_head">
+      <UniqueIdentifier>{770CC6E5-9C97-3322-84C9-C9998BAABA08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\interaction\camera\camera_spherical_coordinates">
+      <UniqueIdentifier>{3BB1FAEE-F4BA-35A5-95F9-30CECB8BCC62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\interaction\camera\common_functions">
+      <UniqueIdentifier>{BC124DF7-1AE3-3718-9052-F1BF563F6664}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\interaction\glfw_interaction">
+      <UniqueIdentifier>{2F3BE26D-CAA3-35A9-8D35-C24B2F12887A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\interaction\gui">
+      <UniqueIdentifier>{EED84086-AAC9-37A5-A8A7-C004EE06EA82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\interaction\timer">
+      <UniqueIdentifier>{B6250A0C-3D67-3777-8985-47551C4EB187}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\interaction\timer\timer_basic">
+      <UniqueIdentifier>{C760EBB1-E9EF-3A77-B949-D3A794FA1067}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\interaction\timer\timer_event_periodic">
+      <UniqueIdentifier>{A6BAF5ED-9D80-3D20-9C21-D0716D2C431A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\interaction\timer\timer_fps">
+      <UniqueIdentifier>{96E0FC7C-0E1F-3BEC-8768-2C9DC8F7906C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\interaction\timer\timer_interval">
+      <UniqueIdentifier>{D23AD2A0-968E-35C1-868F-708443FD6BCB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\interaction\tracker">
+      <UniqueIdentifier>{103054A3-8994-3865-B6A1-2A476D771BA1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\interaction\tracker\velocity_tracker">
+      <UniqueIdentifier>{B28B5DE0-45F9-3A46-94C9-45776FCC5F6C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\math">
+      <UniqueIdentifier>{3DF67EF2-B433-3F2C-9791-137DDADC2380}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\math\affine">
+      <UniqueIdentifier>{38567AE4-7118-3193-A113-D7BFB78AE036}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\math\affine\affine_rt">
+      <UniqueIdentifier>{62605FC6-1770-3C79-8392-1DF33FDE99CC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\math\affine\affine_rts">
+      <UniqueIdentifier>{3ADBEAD2-8013-327C-AFCB-01C4B46CE753}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\math\frame">
+      <UniqueIdentifier>{8FFBF6EE-045E-3FE9-A5B6-2A5891DAA84F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\math\interpolation">
+      <UniqueIdentifier>{7E08AA1D-98AD-3137-9749-A0F749EEC5F6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\math\matrix">
+      <UniqueIdentifier>{14A01060-DD2C-3027-8CAE-AA2847E599EE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\math\matrix\matrix_stack">
+      <UniqueIdentifier>{DE05230E-F6E8-3A1F-8BB6-65E19A6666DA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\math\matrix\matrix_stack\special_types">
+      <UniqueIdentifier>{165DAA5F-4254-308D-AFCD-0808E5E5EB14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\math\matrix\matrix_stack\special_types\definition">
+      <UniqueIdentifier>{4BE0CF7B-E2AC-3C34-AAF4-1C9AF09C73F9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\math\matrix\matrix_stack\special_types\mat4">
+      <UniqueIdentifier>{982779EE-DE11-30D7-992E-601DA6147B26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\math\matrix\test">
+      <UniqueIdentifier>{EF79F041-8C26-394C-9671-50E9B9C52463}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\math\projection">
+      <UniqueIdentifier>{0064DEC2-7CC2-3F76-ADD2-0D712008F0E1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\math\quaternion">
+      <UniqueIdentifier>{AECF37F7-0B90-3C42-A592-0F0820098F5B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\math\rotation">
+      <UniqueIdentifier>{49461093-339D-3C75-82B7-07C7B8CB9EEA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\math\rotation\test">
+      <UniqueIdentifier>{5C75F668-E2C5-3A8B-9A08-BD4DB82ADD7B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\math\vec_mat">
+      <UniqueIdentifier>{AA040AF9-222A-36D5-B97B-56B844B675DB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\math\vec_mat\test">
+      <UniqueIdentifier>{39258CF2-A07F-3F2B-8884-7C3531D7E9A0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\shaders_preset">
+      <UniqueIdentifier>{18049432-7D59-35DF-894D-344BDE05DFF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\shape">
+      <UniqueIdentifier>{326F5471-CB4D-3E19-9A67-B605137D08F8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\shape\curve">
+      <UniqueIdentifier>{1B4DAB2B-A9D1-3367-9D49-6ECE3C4640DA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\shape\intersection">
+      <UniqueIdentifier>{3051D3FC-CFA1-3BD9-92D1-01D1DA318051}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\shape\mesh">
+      <UniqueIdentifier>{188C0530-364D-3306-8E74-0FDF0C8FF85A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\shape\mesh\loader">
+      <UniqueIdentifier>{AAC4614C-2ECE-3FDB-AC5A-6917A26AB71E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\shape\mesh\loader\obj">
+      <UniqueIdentifier>{FB854E87-C756-3A78-A8A5-15702AD80DDE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\shape\mesh\primitive">
+      <UniqueIdentifier>{2ECDE970-6FB6-375D-84D5-DE88FB7E9D38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\shape\mesh\structure">
+      <UniqueIdentifier>{B4327381-7C12-3B65-92BC-FE8A2BDBC4BF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vcl\shape\noise">
+      <UniqueIdentifier>{FA95FF5B-C7A4-3D23-8692-D3603082482C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

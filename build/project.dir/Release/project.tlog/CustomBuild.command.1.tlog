@@ -1,0 +1,10 @@
+^D:\DESKTOP\DARIO\OLD\2A\INF443\FINAL PROJECT\SCENES\INF443\PROJECT\CMAKELISTS.TXT
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" "-SD:/Desktop/Dario/old/2A/INF443/Final project/scenes/inf443/project" "-BD:/Desktop/Dario/old/2A/INF443/Final project/scenes/inf443/project/build" --check-stamp-file "D:/Desktop/Dario/old/2A/INF443/Final project/scenes/inf443/project/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,96 @@
+# Blender MTL File: 'None'
+# Material Count: 7
+
+newmtl Main
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump E:\\Blender\\Gun 1\\Normal map.png
+map_Kd E:\\Blender\\Gun 1\\Diffuse.png
+map_Ns E:\\Blender\\Gun 1\\Roughness.png
+refl E:\\Blender\\Gun 1\\Metallic.png
+
+newmtl Material.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd E:\\Blender\\Flamethrower  1\\Gun 13.png
+map_Ke E:\\Blender\\Flamethrower  1\\Gun 14 emissive .png
+
+newmtl Material.002
+Ns 290.547363
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd E:\\Blender\\Gun 1\\2\\Diffuse.png
+map_Ns E:\\Blender\\Gun 1\\2\\Roughness.png
+refl E:\\Blender\\Gun 1\\2\\Metallic.png
+
+newmtl Material.005
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump E:\\Blender\\Gun 1\\5\\Normal map.png
+map_Kd E:\\Blender\\Gun 1\\New folder (2)\\Diffuse.png
+map_Ns E:\\Blender\\Gun 1\\New folder (2)\\Roughness.png
+refl E:\\Blender\\Gun 1\\New folder (2)\\Metallic.png
+
+newmtl Material.006
+Ns 429.619831
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump E:\\Blender\\Gun 1\\4\\Normal map.png
+map_Kd E:\\Blender\\Gun 1\\4\\Diffuse.png
+refl E:\\Blender\\Gun 1\\4\\Metallic.png
+
+newmtl Material.009
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump E:\\Blender\\Gun 1\\5\\Normal map.png
+map_Kd E:\\Blender\\Gun 1\\5\\Diffuse.png
+map_Ns E:\\Blender\\Gun 1\\5\\Roughness.png
+refl E:\\Blender\\Gun 1\\5\\Metallic.png
+
+newmtl PC
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump E:\\Blender\\Gun 1\\6\\Normal map.png
+map_Kd E:\\Blender\\Gun 1\\6\\Diffuse.png
+map_Ns Flamethrower  1\\6\\Roughness.png
+refl E:\\Blender\\Gun 1\\6\\Metallic.png

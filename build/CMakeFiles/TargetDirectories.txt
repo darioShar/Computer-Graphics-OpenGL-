@@ -1,0 +1,3 @@
+D:/Desktop/Dario/old/2A/INF443/Final project/scenes/inf443/project/build/CMakeFiles/project.dir
+D:/Desktop/Dario/old/2A/INF443/Final project/scenes/inf443/project/build/CMakeFiles/ALL_BUILD.dir
+D:/Desktop/Dario/old/2A/INF443/Final project/scenes/inf443/project/build/CMakeFiles/ZERO_CHECK.dir

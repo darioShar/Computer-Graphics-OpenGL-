@@ -1,0 +1,10 @@
+^D:\DESKTOP\DARIO\OLD\2A\INF443\FINAL PROJECT\SCENES\INF443\PROJECT\BUILD\CMAKEFILES\76A1FC4FD0662E8DEF71C5BE4DCEE8E2\GENERATE.STAMP.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" "-SD:/Desktop/Dario/old/2A/INF443/Final project/scenes/inf443/project" "-BD:/Desktop/Dario/old/2A/INF443/Final project/scenes/inf443/project/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/Desktop/Dario/old/2A/INF443/Final project/scenes/inf443/project/build/project.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
